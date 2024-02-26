@@ -17,13 +17,6 @@ This project implements a sentiment analysis model using machine learning techni
 **Dataset**:
 The project uses a sentiment analysis dataset available on Kaggle, containing text data labeled with 6 different types of sentiments. The dataset includes separate files for training, testing, and validation.
 
-**Contributing**:
-- Fork the repository
-- Create a new branch (`git checkout -b feature`)
-- Make changes and commit (`git commit -am 'Add new feature'`)
-- Push to the branch (`git push origin feature`)
-- Create a new Pull Request
-
 **Acknowledgements**:
 - NLTK library for natural language processing
 - Scikit-learn library for machine learning algorithms
